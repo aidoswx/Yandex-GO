@@ -6,3 +6,11 @@ target/
 *.db-shm
 rides.csv
 build.log
+target/
+*.class
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+rides.csv
+build.log
